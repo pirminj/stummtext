@@ -1,0 +1,12 @@
+* stummtext - quite reading
+
+#+begin_quote
+right now, this is a testbed for latex processing with python
+#+end_quote
+
+Reading is one of the most effective ways to absorb information, but not all valuable content comes in book form. Many insightful texts are scattered across websites, blogs, and social media platforms. These online environments, while rich in content, often bombard readers with distractions: comment sections, notifications, and interactive elements that can derail focus. =Stummtext= aims to address this issue by transforming any text into a distraction-free reading experience. It strips away the noise surrounding online content, presenting text in a clean, book-like format that allows readers to engage deeply with the material.
+
+Output devices might be
+- reMarkable2 Eink tablet
+- Phone
+- other Eink readers
